@@ -1,1 +1,1 @@
-# PlanyDiary
+# PlantDiary
