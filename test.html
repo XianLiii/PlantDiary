@@ -4,7 +4,7 @@
     function postalCodeLookup() {
         var head = document.getElementsByTagName('head')[0],
             script = document.createElement('script');
-        script.src = '//maps.googleapis.com/maps/api/js?sensor=false';
+        script.src = '//maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyCyu_lxsLbaJzt9xJZ-RY6iqNkRq26EuyQ';
         head.appendChild(script);
         script.onload = function () {
             if (navigator.geolocation) {
