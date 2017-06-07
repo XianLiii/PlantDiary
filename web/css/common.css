@@ -57,8 +57,11 @@ body {
 }
 
 /* 订阅与通知 */
-.iconneweventremind{
+.iconneweventremind,.subscribe-btn{
     cursor: pointer;
+}
+.oval6{
+    display: none;
 }
 .notification{
     position: absolute;
@@ -71,5 +74,4 @@ body {
     z-index: 999;
     background-size: 330px 248px;
     display: none;
-
 }
