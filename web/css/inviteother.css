@@ -1,0 +1,1388 @@
+.myplant-with-others {
+    width: 100%;
+    min-width: 1440px;
+    height: 100%;
+    min-height: 1197px;
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+    background: rgba(249, 249, 250, 1.0)
+}
+
+a {
+    text-decoration: none
+}
+
+div {
+    -webkit-text-size-adjust: none
+}
+
+.myplant-with-others .group {
+    background: rgba(255, 255, 255, 0.0);
+    top: -31px;
+    height: 269px;
+    width: 1456px;
+    position: absolute;
+    margin: 0;
+    left: -5px
+}
+
+.myplant-with-others .group .rectangle4 {
+    background: rgba(30, 36, 49, 1.0);
+    top: 0;
+    height: 269px;
+    width: 1456px;
+    position: absolute;
+    margin: 0;
+    left: 0;
+    border-style: solid;
+    border-width: 1;
+    border-color: rgba(150, 150, 150, 1.0)
+}
+
+.myplant-with-others .group .smol-steven {
+    background: rgba(255, 255, 255, 0.0);
+    top: 132px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 77px;
+    font-family: '-apple-system', Helvetica, Arial, serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 40.0px;
+    color: rgba(209, 213, 223, 1.0);
+    text-align: left;
+    letter-spacing: .14px;
+    line-height: 48.0px
+}
+
+.myplant-with-others .group .line {
+    background: rgba(255, 255, 255, 0.0);
+    top: 169px;
+    height: 2px;
+    width: 23px;
+    position: absolute;
+    margin: 0;
+    left: 1352px
+}
+
+.myplant-with-others .group .line-copy {
+    background: rgba(255, 255, 255, 0.0);
+    top: 159px;
+    height: 22px;
+    width: 3px;
+    position: absolute;
+    margin: 0;
+    left: 1362px
+}
+
+.myplant-with-others .group .e-xplore {
+    background: rgba(255, 255, 255, 0.0);
+    top: 63px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 1103px;
+    font-family: '-apple-system', Helvetica, Arial, serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12.0px;
+    color: rgba(87, 96, 116, 1.0);
+    text-align: left;
+    letter-spacing: .51px;
+    line-height: 14.0px
+}
+
+.myplant-with-others .group .a-ctivities {
+    background: rgba(255, 255, 255, 0.0);
+    top: 226px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 85px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(132, 140, 158, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .group .gallery {
+    background: rgba(255, 255, 255, 0.0);
+    top: 226px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 227px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(132, 140, 158, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .group .article {
+    background: rgba(255, 255, 255, 0.0);
+    top: 226px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 337px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(132, 140, 158, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .group .s-tatistics {
+    background: rgba(255, 255, 255, 0.0);
+    top: 226px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 446px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(132, 140, 158, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .group .s-ervices {
+    background: rgba(255, 255, 255, 0.0);
+    top: 63px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 1218px;
+    font-family: '-apple-system', Helvetica, Arial, serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12.0px;
+    color: rgba(87, 96, 116, 1.0);
+    text-align: left;
+    letter-spacing: .51px;
+    line-height: 14.0px
+}
+
+.myplant-with-others .group .m-arket {
+    background: rgba(255, 255, 255, 0.0);
+    top: 63px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 1338px;
+    font-family: '-apple-system', Helvetica, Arial, serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12.0px;
+    color: rgba(87, 96, 116, 1.0);
+    text-align: left;
+    letter-spacing: .51px;
+    line-height: 14.0px
+}
+
+.myplant-with-others .group .katherine {
+    background: rgba(255, 255, 255, 0.0);
+    top: 63px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 114px;
+    font-family: '-apple-system', Helvetica, Arial, serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12.0px;
+    color: rgba(87, 96, 116, 1.0);
+    text-align: left;
+    letter-spacing: .51px;
+    line-height: 14.0px
+}
+
+.myplant-with-others .group .group3 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 64px;
+    height: 13px;
+    width: 15px;
+    position: absolute;
+    margin: 0;
+    left: 212px
+}
+
+.myplant-with-others .group .group3 .rectangle {
+    background: rgba(96, 102, 120, 1.0);
+    top: 0;
+    height: 3px;
+    width: 3px;
+    position: absolute;
+    margin: 0;
+    left: 0
+}
+
+.myplant-with-others .group .group3 .rectangle-copy10 {
+    background: rgba(96, 102, 120, 1.0);
+    top: 5px;
+    height: 3px;
+    width: 3px;
+    position: absolute;
+    margin: 0;
+    left: 0
+}
+
+.myplant-with-others .group .group3 .rectangle-copy13 {
+    background: rgba(96, 102, 120, 1.0);
+    top: 10px;
+    height: 3px;
+    width: 3px;
+    position: absolute;
+    margin: 0;
+    left: 0
+}
+
+.myplant-with-others .group .group3 .rectangle-copy7 {
+    background: rgba(96, 102, 120, 1.0);
+    top: 0;
+    height: 3px;
+    width: 3px;
+    position: absolute;
+    margin: 0;
+    left: 6px
+}
+
+.myplant-with-others .group .group3 .rectangle-copy11 {
+    background: rgba(96, 102, 120, 1.0);
+    top: 5px;
+    height: 3px;
+    width: 3px;
+    position: absolute;
+    margin: 0;
+    left: 6px
+}
+
+.myplant-with-others .group .group3 .rectangle-copy14 {
+    background: rgba(96, 102, 120, 1.0);
+    top: 10px;
+    height: 3px;
+    width: 3px;
+    position: absolute;
+    margin: 0;
+    left: 6px
+}
+
+.myplant-with-others .group .group3 .rectangle-copy9 {
+    background: rgba(96, 102, 120, 1.0);
+    top: 0;
+    height: 3px;
+    width: 3px;
+    position: absolute;
+    margin: 0;
+    left: 12px
+}
+
+.myplant-with-others .group .group3 .rectangle-copy12 {
+    background: rgba(96, 102, 120, 1.0);
+    top: 5px;
+    height: 3px;
+    width: 3px;
+    position: absolute;
+    margin: 0;
+    left: 12px
+}
+
+.myplant-with-others .group .group3 .rectangle-copy15 {
+    background: rgba(96, 102, 120, 1.0);
+    top: 10px;
+    height: 3px;
+    width: 3px;
+    position: absolute;
+    margin: 0;
+    left: 12px
+}
+
+.myplant-with-others .group .iconneweventremind {
+    background: rgba(255, 255, 255, 0.0);
+    top: 59px;
+    height: 19px;
+    width: 17px;
+    position: absolute;
+    margin: 0;
+    left: 259px
+}
+
+.myplant-with-others .group .iconneweventremind .stroke1 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 3px;
+    height: 10px;
+    width: 13px;
+    position: absolute;
+    margin: 0;
+    left: 2px
+}
+
+.myplant-with-others .group .iconneweventremind .stroke3 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 11px;
+    height: 5px;
+    width: 11px;
+    position: absolute;
+    margin: 0;
+    left: 1px
+}
+
+.myplant-with-others .group .iconneweventremind .stroke7 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 11px;
+    height: 5px;
+    width: 4px;
+    position: absolute;
+    margin: 0;
+    left: 11px
+}
+
+.myplant-with-others .group .iconneweventremind .stroke9 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 14px;
+    height: 5px;
+    width: 7px;
+    position: absolute;
+    margin: 0;
+    left: 5px
+}
+
+.myplant-with-others .group .iconneweventremind .stroke11 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 0;
+    height: 5px;
+    width: 5px;
+    position: absolute;
+    margin: 0;
+    left: 6px
+}
+
+.myplant-with-others .group .icondetailsloadmoreindicator {
+    background: rgba(255, 255, 255, 0.0);
+    top: 69px;
+    height: 4px;
+    width: 6px;
+    position: absolute;
+    margin: 0;
+    left: 175px
+}
+
+.myplant-with-others .group .icondetailsloadmoreindicator .group6 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 0;
+    height: 4px;
+    width: 6px;
+    position: relative;
+    margin: 0;
+    left: 0
+}
+
+.myplant-with-others .group .icon-details-loadmore-indicator-copy {
+    background: rgba(255, 255, 255, 0.0);
+    top: 122px;
+    height: 4px;
+    width: 6px;
+    position: absolute;
+    margin: 0;
+    left: 217px
+}
+
+.myplant-with-others .group .rectangle5 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 58px;
+    height: 22px;
+    width: 22px;
+    position: absolute;
+    margin: 0;
+    left: 79px
+}
+
+.myplant-with-others .group .rectangle6 {
+    background: rgba(1, 206, 132, 1.0);
+    top: 152px;
+    height: 40px;
+    width: 123px;
+    position: absolute;
+    margin: 0;
+    left: 1153px;
+    border-radius: 20px
+}
+
+.myplant-with-others .group .rectangle6-copy {
+    background: rgba(255, 255, 255, 0.0);
+    top: 150px;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    margin: 0;
+    left: 1298px
+}
+
+.myplant-with-others .group .rectangle6-copy2 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 150px;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    margin: 0;
+    left: 1343px
+}
+
+.myplant-with-others .group .share {
+    background: rgba(255, 255, 255, 0.0);
+    top: 163px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 1196px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(255, 255, 255, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .group .rectangle8 {
+    background: rgba(1, 206, 132, 1.0);
+    top: 266px;
+    height: 2px;
+    width: 72px;
+    position: absolute;
+    margin: 0;
+    left: 85px
+}
+
+.myplant-with-others .rectangle7 {
+    background: rgba(255, 255, 255, 1.0);
+    top: 300px;
+    height: 163px;
+    width: 300px;
+    position: absolute;
+    margin: 0;
+    left: 913px;
+    border-style: solid;
+    border-width: .5;
+    border-color: rgba(218, 218, 228, 1.0)
+}
+
+.myplant-with-others .rectangle7-copy24 {
+    background: rgba(255, 255, 255, 1.0);
+    top: 480px;
+    height: 437px;
+    width: 300px;
+    position: absolute;
+    margin: 0;
+    left: 913px;
+    border-style: solid;
+    border-width: .5;
+    border-color: rgba(218, 218, 228, 1.0)
+}
+
+.myplant-with-others .rectangle7-copy8 {
+    background: rgba(255, 255, 255, 1.0);
+    top: 928px;
+    height: 92px;
+    width: 300px;
+    position: absolute;
+    margin: 0;
+    left: 910px;
+    border-style: solid;
+    border-width: .5;
+    border-color: rgba(218, 218, 228, 1.0)
+}
+
+.myplant-with-others .botanical-name-spat {
+    background: rgba(255, 255, 255, 0.0);
+    top: 355px;
+    height: auto;
+    width: 244px;
+    position: absolute;
+    margin: 0;
+    left: 947px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(72, 81, 99, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 20.0px
+}
+
+.myplant-with-others .origin-south-americ {
+    background: rgba(255, 255, 255, 0.0);
+    top: 541px;
+    height: auto;
+    width: 244px;
+    position: absolute;
+    margin: 0;
+    left: 947px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(72, 81, 99, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 20.0px
+}
+
+.myplant-with-others .comment {
+    background: rgba(255, 255, 255, 0.0);
+    top: 997px;
+    height: 120px;
+    width: 430px;
+    position: absolute;
+    margin: 0;
+    left: 925px
+}
+
+.myplant-with-others .comment .rectangle7-copy13 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 0;
+    height: 134px;
+    width: 444px;
+    position: absolute;
+    margin: 0;
+    left: 0
+}
+
+.myplant-with-others .comment .s-end {
+    background: rgba(255, 255, 255, 0.0);
+    top: 95px;
+    height: auto;
+    width: 37px;
+    position: absolute;
+    margin: 0;
+    left: 358px;
+    font-family: '-apple-system', Helvetica, Arial, serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 14.0px;
+    color: rgba(1, 206, 132, 1.0);
+    text-align: left;
+    letter-spacing: .46px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .comment .text-problems-or-recommendations-you-want-us-to-know {
+    background: rgba(255, 255, 255, 0.0);
+    top: 28px;
+    height: 30px;
+    width: 364px;
+    position: absolute;
+    margin: 0;
+    left: 55px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(219, 222, 229, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px;
+    border: 0
+}
+
+.myplant-with-others .comment .text-problems-or-recommendations-you-want-us-to-know::placeholder {
+    color: rgba(219, 222, 229, 0.6)
+}
+
+.myplant-with-others .care-tips {
+    background: rgba(255, 255, 255, 0.0);
+    top: 503px;
+    height: auto;
+    width: 244px;
+    position: absolute;
+    margin: 0;
+    left: 947px;
+    font-family: '-apple-system', Helvetica, Arial, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14.0px;
+    color: rgba(72, 81, 99, 1.0);
+    text-align: left;
+    letter-spacing: .96px;
+    line-height: 20.0px
+}
+
+.myplant-with-others .botanical-info {
+    background: rgba(255, 255, 255, 0.0);
+    top: 321px;
+    height: auto;
+    width: 244px;
+    position: absolute;
+    margin: 0;
+    left: 947px;
+    font-family: '-apple-system', Helvetica, Arial, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14.0px;
+    color: rgba(72, 81, 99, 1.0);
+    text-align: left;
+    letter-spacing: .96px;
+    line-height: 20.0px
+}
+
+.myplant-with-others .a-d {
+    background: rgba(255, 255, 255, 0.0);
+    top: 965px;
+    height: auto;
+    width: 205px;
+    position: absolute;
+    margin: 0;
+    left: 1037px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(72, 81, 99, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 20.0px
+}
+
+.myplant-with-others .follow-subscribe {
+    background: rgba(255, 255, 255, 0.0);
+    top: 105px;
+    height: 40px;
+    width: 229px;
+    position: absolute;
+    margin: 0;
+    left: 316px
+}
+
+.myplant-with-others .follow-subscribe .rectangle2 {
+    background: rgba(37, 45, 60, 1.0);
+    top: 1px;
+    height: 40px;
+    width: 229px;
+    position: absolute;
+    margin: 0;
+    left: 0;
+    border-radius: 20px
+}
+
+.myplant-with-others .follow-subscribe .a35-follower {
+    background: rgba(255, 255, 255, 0.0);
+    top: 13px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 24px;
+    font-family: '-apple-system', Helvetica, Arial, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14.0px;
+    color: rgba(220, 222, 230, 1.0);
+    text-align: left;
+    letter-spacing: .96px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .follow-subscribe .a3-subscribe {
+    background: rgba(255, 255, 255, 0.0);
+    top: 13px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 130px;
+    font-family: '-apple-system', Helvetica, Arial, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14.0px;
+    color: rgba(220, 222, 230, 1.0);
+    text-align: left;
+    letter-spacing: .96px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .follow-subscribe .image1 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 0;
+    height: 40px;
+    width: 3px;
+    position: absolute;
+    margin: 0;
+    left: 110px
+}
+
+.myplant-with-others .image2 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 288px;
+    height: 818px;
+    width: 3px;
+    position: absolute;
+    margin: 0;
+    left: 157px
+}
+
+.myplant-with-others .rectangle7-copy {
+    background: rgba(255, 255, 255, 1.0);
+    top: 597px;
+    height: 50px;
+    width: 780px;
+    position: absolute;
+    margin: 0;
+    left: 113px;
+    border-style: solid;
+    border-width: .5;
+    border-color: rgba(218, 218, 228, 1.0)
+}
+
+.myplant-with-others .rectangle7-copy9 {
+    background: rgba(255, 255, 255, 1.0);
+    top: 509px;
+    height: 50px;
+    width: 780px;
+    position: absolute;
+    margin: 0;
+    left: 113px;
+    border-style: solid;
+    border-width: .5;
+    border-color: rgba(218, 218, 228, 1.0)
+}
+
+.myplant-with-others .rectangle7-copy10 {
+    background: rgba(255, 255, 255, 1.0);
+    top: 364px;
+    height: 110px;
+    width: 780px;
+    position: absolute;
+    margin: 0;
+    left: 113px;
+    border-style: solid;
+    border-width: .5;
+    border-color: rgba(218, 218, 228, 1.0)
+}
+
+.myplant-with-others .post-a-service-reque {
+    background: rgba(255, 255, 255, 0.0);
+    top: 380px;
+    height: auto;
+    width: 682px;
+    position: absolute;
+    margin: 0;
+    left: 165px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(166, 169, 177, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 20.0px
+}
+
+.myplant-with-others .diary-input {
+    background: rgba(255, 255, 255, 0.0);
+    top: 258px;
+    height: 76px;
+    width: 479px;
+    position: absolute;
+    margin: 0;
+    left: 113px
+}
+
+.myplant-with-others .diary-input .combined-shape {
+    background: rgba(255, 255, 255, 0.0);
+    top: 0;
+    height: 76px;
+    width: 479px;
+    position: absolute;
+    margin: 0;
+    left: 0
+}
+
+.myplant-with-others .diary-input .water {
+    background: rgba(255, 255, 255, 0.0);
+    top: 5px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 88px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(72, 81, 99, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .diary-input .status {
+    background: rgba(255, 255, 255, 0.0);
+    top: 5px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 12px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(72, 81, 99, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .diary-input .hows-your-plant-tod {
+    background: rgba(255, 255, 255, 0.0);
+    top: 42px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 12px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(219, 222, 229, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .diary-input .service-request {
+    background: rgba(255, 255, 255, 0.0);
+    top: 5px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 310px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(72, 81, 99, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .diary-input .fertilize {
+    background: rgba(255, 255, 255, 0.0);
+    top: 5px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 153px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(72, 81, 99, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .diary-input .repot {
+    background: rgba(255, 255, 255, 0.0);
+    top: 5px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 237px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(72, 81, 99, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .image3 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 382px;
+    height: 22px;
+    width: 22px;
+    position: absolute;
+    margin: 0;
+    left: 126px
+}
+
+.myplant-with-others .water-smol-steven {
+    background: rgba(255, 255, 255, 0.0);
+    top: 613px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 160px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(72, 81, 99, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .invite-serena-to-car {
+    background: rgba(255, 255, 255, 0.0);
+    top: 525px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 160px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(72, 81, 99, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .rectangle6-copy3 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 523px;
+    height: 22px;
+    width: 22px;
+    position: absolute;
+    margin: 0;
+    left: 201px
+}
+
+.myplant-with-others .yesterday {
+    background: rgba(255, 255, 255, 0.0);
+    top: 579px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 162px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 12.0px;
+    color: rgba(173, 174, 174, 1.0);
+    text-align: left;
+    letter-spacing: -.29px;
+    line-height: 14.0px
+}
+
+.myplant-with-others .a1800 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 489px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 162px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 12.0px;
+    color: rgba(173, 174, 174, 1.0);
+    text-align: left;
+    letter-spacing: -.29px;
+    line-height: 14.0px
+}
+
+.myplant-with-others .a1900 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 348px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 162px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 12.0px;
+    color: rgba(173, 174, 174, 1.0);
+    text-align: left;
+    letter-spacing: -.29px;
+    line-height: 14.0px
+}
+
+.myplant-with-others .a24-jul {
+    background: rgba(255, 255, 255, 0.0);
+    top: 663px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 162px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 12.0px;
+    color: rgba(173, 174, 174, 1.0);
+    text-align: left;
+    letter-spacing: -.29px;
+    line-height: 14.0px
+}
+
+.myplant-with-others .a21-jul {
+    background: rgba(255, 255, 255, 0.0);
+    top: 856px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 162px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 12.0px;
+    color: rgba(173, 174, 174, 1.0);
+    text-align: left;
+    letter-spacing: -.29px;
+    line-height: 14.0px
+}
+
+.myplant-with-others .a12-jul {
+    background: rgba(255, 255, 255, 0.0);
+    top: 1038px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 162px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 12.0px;
+    color: rgba(173, 174, 174, 1.0);
+    text-align: left;
+    letter-spacing: -.29px;
+    line-height: 14.0px
+}
+
+.myplant-with-others .rectangle7-copy2 {
+    background: rgba(255, 255, 255, 1.0);
+    top: 681px;
+    height: 163px;
+    width: 780px;
+    position: absolute;
+    margin: 0;
+    left: 113px;
+    border-style: solid;
+    border-width: .5;
+    border-color: rgba(218, 218, 228, 1.0)
+}
+
+.myplant-with-others .write-a-story-about {
+    background: rgba(255, 255, 255, 0.0);
+    top: 701px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 160px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(72, 81, 99, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .rectangle7-copy3 {
+    background: rgba(255, 255, 255, 1.0);
+    top: 874px;
+    height: 148px;
+    width: 780px;
+    position: absolute;
+    margin: 0;
+    left: 113px;
+    border-style: solid;
+    border-width: .5;
+    border-color: rgba(218, 218, 228, 1.0)
+}
+
+.myplant-with-others .rectangle7-copy6 {
+    background: rgba(255, 255, 255, 1.0);
+    top: 1057px;
+    height: 48px;
+    width: 780px;
+    position: absolute;
+    margin: 0;
+    left: 113px;
+    border-style: solid;
+    border-width: .5;
+    border-color: rgba(218, 218, 228, 1.0)
+}
+
+.myplant-with-others .this-is-my-plant-it {
+    background: rgba(255, 255, 255, 0.0);
+    top: 1072px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 160px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(33, 33, 33, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .rectangle5-copy5 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 1070px;
+    height: 22px;
+    width: 22px;
+    position: absolute;
+    margin: 0;
+    left: 126px
+}
+
+.myplant-with-others .rectangle5-copy {
+    background: rgba(255, 255, 255, 0.0);
+    top: 525px;
+    height: 22px;
+    width: 22px;
+    position: absolute;
+    margin: 0;
+    left: 126px
+}
+
+.myplant-with-others .rectangle5-copy2 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 606px;
+    height: 22px;
+    width: 22px;
+    position: absolute;
+    margin: 0;
+    left: 126px
+}
+
+.myplant-with-others .rectangle5-copy3 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 699px;
+    height: 22px;
+    width: 22px;
+    position: absolute;
+    margin: 0;
+    left: 126px
+}
+
+.myplant-with-others .image4 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 888px;
+    height: 22px;
+    width: 22px;
+    position: absolute;
+    margin: 0;
+    left: 126px
+}
+
+.myplant-with-others .add-photos-to-smol-s {
+    background: rgba(255, 255, 255, 0.0);
+    top: 889px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 160px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(72, 81, 99, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 16.0px
+}
+
+.myplant-with-others .how-to-grow-peace-li-copy {
+    background: rgba(255, 255, 255, 0.0);
+    top: 727px;
+    height: auto;
+    width: 396px;
+    position: absolute;
+    margin: 0;
+    left: 303px;
+    font-family: '-apple-system', Helvetica, Arial, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18.0px;
+    color: rgba(33, 33, 33, 1.0);
+    text-align: left;
+    letter-spacing: .87px;
+    line-height: 21.0px
+}
+
+.myplant-with-others .the-peace-lily-is-re-copy {
+    background: rgba(255, 255, 255, 0.0);
+    top: 754px;
+    height: auto;
+    width: 588px;
+    position: absolute;
+    margin: 0;
+    left: 303px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 14.0px;
+    color: rgba(33, 33, 33, 1.0);
+    text-align: left;
+    letter-spacing: -.34px;
+    line-height: 20.0px
+}
+
+.myplant-with-others .mask {
+    background: rgba(215, 215, 215, 1.0);
+    top: 728px;
+    height: 92px;
+    width: 92px;
+    position: absolute;
+    margin: 0;
+    left: 159px
+}
+
+.myplant-with-others .bitmap {
+    background: rgba(255, 255, 255, 0.0);
+    top: 727px;
+    height: 93px;
+    width: 139px;
+    position: absolute;
+    margin: 0;
+    left: 153px
+}
+
+.myplant-with-others .view1 {
+    background: rgba(215, 215, 215, 1.0);
+    top: 911px;
+    height: 92px;
+    width: 92px;
+    position: absolute;
+    margin: 0;
+    left: 159px
+}
+
+.myplant-with-others .image5 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 911px;
+    height: 93px;
+    width: 139px;
+    position: absolute;
+    margin: 0;
+    left: 153px
+}
+
+.myplant-with-others .view2 {
+    background: rgba(215, 215, 215, 1.0);
+    top: 911px;
+    height: 92px;
+    width: 92px;
+    position: absolute;
+    margin: 0;
+    left: 257px
+}
+
+.myplant-with-others .image6 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 911px;
+    height: 93px;
+    width: 139px;
+    position: absolute;
+    margin: 0;
+    left: 307px
+}
+
+.myplant-with-others .view3 {
+    background: rgba(215, 215, 215, 1.0);
+    top: 911px;
+    height: 92px;
+    width: 92px;
+    position: absolute;
+    margin: 0;
+    left: 355px
+}
+
+.myplant-with-others .image7 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 911px;
+    height: 93px;
+    width: 139px;
+    position: absolute;
+    margin: 0;
+    left: 463px
+}
+
+.myplant-with-others .view4 {
+    background: rgba(215, 215, 215, 1.0);
+    top: 910px;
+    height: 92px;
+    width: 92px;
+    position: absolute;
+    margin: 0;
+    left: 453px
+}
+
+.myplant-with-others .image8 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 911px;
+    height: 93px;
+    width: 139px;
+    position: absolute;
+    margin: 0;
+    left: 618px
+}
+
+.myplant-with-others .image9 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 611px;
+    height: 22px;
+    width: 22px;
+    position: absolute;
+    margin: 0;
+    left: 126px
+}
+
+.myplant-with-others .image10 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 699px;
+    height: 22px;
+    width: 22px;
+    position: absolute;
+    margin: 0;
+    left: 126px
+}
+
+.myplant-with-others .image11 {
+    background: rgba(255, 255, 255, 0.0);
+    top: 888px;
+    height: 22px;
+    width: 22px;
+    position: absolute;
+    margin: 0;
+    left: 126px
+}
+
+.myplant-with-others .search-bar {
+    background: rgba(255, 255, 255, 0.0);
+    top: 27px;
+    height: 22px;
+    width: 188px;
+    position: absolute;
+    margin: 0;
+    left: 302px
+}
+
+.myplant-with-others .search-bar .rectangle9 {
+    background: rgba(37, 45, 59, 1.0);
+    top: 0;
+    height: 22px;
+    width: 188px;
+    position: absolute;
+    margin: 0;
+    left: 0;
+    border-radius: 11px
+}
+
+.myplant-with-others .search-bar .search {
+    background: rgba(255, 255, 255, 0.0);
+    top: 4px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 14px;
+    font-family: 'SFUIText-Regular', Helvetica, Arial, serif;
+    font-size: 12.0px;
+    color: rgba(96, 102, 120, 1.0);
+    text-align: left;
+    letter-spacing: -.29px;
+    line-height: 14.0px
+}
