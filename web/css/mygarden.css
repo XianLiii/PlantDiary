@@ -1783,3 +1783,60 @@ div {
 .my-garden .comment .text-problems-or-recommendations-you-want-us-to-know::placeholder {
     color: rgba(219, 222, 229, 0.6)
 }
+
+/* 添加植物浮层 */
+.add{
+    cursor: pointer;
+}
+.add-plant1,.add-plant2,.add-plant3{
+    position: absolute;
+    width: 514px;
+    height: 434px;
+    background-size: 514px 434px;
+    left: 50%;
+    top:50%;
+    margin: -217px 0 0 -257px;
+    display: none;
+    z-index:9999;
+}
+.add-plant1{
+    background-image: url("../images/add_plant1.png");
+}
+.add-plant2{
+    background-image: url("../images/add_plant2.png");
+}
+.add-plant3{
+     background-image: url("../images/add_plant3.png");
+ }
+.close-btn{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    display: block;
+    width:50px;
+    height:50px;
+}
+.to-step2{
+    position: absolute;
+    left: 60px;
+    top: 73px;
+    display: block;
+    width: 250px;
+    height: 50px;
+}
+.to-step3{
+    position: absolute;
+    right: 25px;
+    bottom: 27px;
+    display: block;
+    width: 108px;
+    height: 45px;
+}
+.buy-now{
+    position: absolute;
+    left: 195px;
+    bottom: 53px;
+    display: block;
+    width: 122px;
+    height: 50px;
+}

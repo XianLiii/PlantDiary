@@ -3,6 +3,8 @@
     <meta charset=UTF-8>
     <meta name=viewport content="width=1440px, maximum-scale=1.0">
     <meta name=author content="lixian">
+    <link rel="stylesheet" href="./css/common.css" type="text/css">
+    <link rel="stylesheet" href="./css/feedback.css" type="text/css">
 </head>
 <body>
 <div class=feedback>
@@ -128,14 +130,8 @@
         <div class=oval4-copy7></div>
         <div class=oval4-copy8></div>
         <div class=oval4-copy9></div>
-        <div class=view3>
-            <div class=i-want-to-send-messa>I want to send message to her</div>
-            <div class=a210024-jul2017>21:00 24 JUL 2017</div>
-            <div class=ip211129392>IP 211 129 392</div>
-        </div>
         <div class=c-omments>COMMENTS</div>
-        <img class=image6              src="https://anima-uploads.s3.amazonaws.com/5937703db9f5b4000be33eda/5937f5cb5226fd000d4fa3c5/5937f61e5226fd000ca851b6/img/feedbackline  2@2x.png"><img
-            class=line-copy3             src="https://anima-uploads.s3.amazonaws.com/5937703db9f5b4000be33eda/5937f5cb5226fd000d4fa3c5/5937f61e5226fd000ca851b6/img/feedbackline copy 3@2x.png"><img
+        <img
             class=combined-shape             src="https://anima-uploads.s3.amazonaws.com/5937703db9f5b4000be33eda/5937f5cb5226fd000d4fa3c5/5937f61e5226fd000ca851b6/img/feedbackcombined shape@2x.png">
         <div class=nav>
             <div class=rectangle4-copy></div>
@@ -168,7 +164,33 @@
                 <div class=search>Search</div>
             </div>
         </div>
+
+
+        <!-- 留言内容 -->
+        <div class="feeds-list">
+            <div class="feed">
+                <!--<p class="extra-info">
+                    <span class="ip">IP 211.129.24.55</span>
+                    <span class="datetime">21:00 24 JUL 2017</span>
+                </p>
+                <p class="feed-content">I want to send message to her</p>-->
+            </div>
+        </div>
     </div>
 </div>
+<script type="text/javascript" src="./js/jquery.js"></script>
+<script type="text/javascript">
+    /* 读取留言内容 */
+    var messages_str = window.localStorage.getItem('messages');
+    var messages = JSON.parse(messages_str);
+    if(messages){
+        var str = '';
+        for(var i =0;i<messages.length;i++){
+            if(i > 8) break;
+            str += '<div class="feed"><p class="extra-info"><span class="ip">IP 211.129.24.55</span><span class="datetime">'+messages[i].datetime+'</span></p><p class="feed-content">'+messages[i].content+'</p></div>';
+        }
+        $('.feeds-list').html(str);
+    }
+</script>
 </body>
 </html>

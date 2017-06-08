@@ -124,10 +124,10 @@
         <div class=care-tips>CARE TIPS</div>
         <div class=botanical-info>BOTANICAL INFO</div>
         <div class=a-d>AD</div>
-        <div class=comment><img class=rectangle7-copy13                                 src="https://anima-uploads.s3.amazonaws.com/5937703db9f5b4000be33eda/5937f5cb5226fd000d4fa3c5/5937fbdb5226fd000d4fa3cf/img/othersplantrectangle 7 copy 13@2x.png"><a
-                href=# onclick="document.getElementsByName('form1')[0].submit();">
-            <div class=s-end>SEND</div>
-        </a><input class=text-problems-or-recommendations-you-want-us-to-know
+        <div class=comment>
+            <img class=rectangle7-copy13 src="https://anima-uploads.s3.amazonaws.com/5937703db9f5b4000be33eda/5937f5cb5226fd000d4fa3c5/5937fbdb5226fd000d4fa3cf/img/othersplantrectangle 7 copy 13@2x.png">
+                <div class=s-end>SEND</div>
+            <input class=text-problems-or-recommendations-you-want-us-to-know
                    name=textProblemsOrRecommendationsYouWantUsToKnow
                    placeholder="Problems or recommendations you want us to know…"></div>
 
@@ -135,17 +135,35 @@
         <div class="notification">
 
         </div>
+
+        <!-- 个人设置浮层 -->
+        <div class="setting">
+            <a href="signin.html" class="log-out"></a>
+        </div>
+
+        <!-- 顶部下拉nav -->
+        <div class="nav-droplist">
+            <a href="index.html" class="nav-homepage"></a>
+            <a href="mygarden.html" class="nav-mygarden"></a>
+        </div>
     </div>
 </div>
 <script type="text/javascript" src="./js/jquery.js"></script>
+<script type="text/javascript" src="./js/public.js"></script>
 <script type="text/javascript">
+    /* 订阅 */
     $('.iconneweventremind').click(function () {
         $('.notification').fadeToggle();
-    })
+    });
     $('.subscribe-btn').click(function () {
         $(this).children('.rectangle6').css('background-color','rgba(37, 45, 60, 1.0)');
         $('.oval6').show();
-    })
+    });
+
+    /* 个人设置 */
+    $('.katherine,.rectangle5').click(function () {
+        $('.setting').fadeToggle();
+    });
 </script>
 </body>
 </html>

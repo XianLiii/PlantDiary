@@ -1434,3 +1434,43 @@ div {
 .my-plantmyself .comment .text-problems-or-recommendations-you-want-us-to-know::placeholder {
     color: rgba(219, 222, 229, 0.6)
 }
+
+/* 高亮输入框 */
+.editing-input{
+    position: absolute;
+    background-image: url("../images/editing.png");
+    width: 540px;
+    height: 187px;
+    background-size: 540px 187px;
+    left: 82px;
+    top: 241px;
+    display: none;
+    z-index: 9999;
+}
+.editing-input .feed-input{
+    position: absolute;
+    border: none;
+    top: 59px;
+    left: 39px;
+    display: block;
+    width: 461px;
+    height: 73px;
+}
+.editing-input .feed-send{
+    position: absolute;
+    display: block;
+    right: 24px;
+    bottom: 22px;
+    width: 69px;
+    height: 25px;
+}
+
+/* 发表的新内容 */
+.move-container{
+    position: relative;
+    top:0px;
+    -webkit-transition: top 0.4s linear;
+}
+.new-container{
+    display: none;
+}

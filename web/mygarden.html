@@ -42,14 +42,14 @@
         <div class=rectangle6></div>
         <img class=rectangle6-copy2              src="https://anima-uploads.s3.amazonaws.com/5937703db9f5b4000be33eda/5937750c741b49000ce7d4cd/5937762fb9f5b4000be33ee4/img/mygardenrectangle 6 copy 2@2x.png">
         <div class=share>Share</div>
-        <a href=mygardenaddplant>
             <div class=add>
                 <div class=view1><img class=rectangle3                                       src="https://anima-uploads.s3.amazonaws.com/5937703db9f5b4000be33eda/5937750c741b49000ce7d4cd/5937762fb9f5b4000be33ee4/img/mygardenrectangle 3@2x.png"><img
                         class=image1                         src="https://anima-uploads.s3.amazonaws.com/5937703db9f5b4000be33eda/5937750c741b49000ce7d4cd/5937762fb9f5b4000be33ee4/img/mygardenline  1@2x.png"><img
                         class=image2                         src="https://anima-uploads.s3.amazonaws.com/5937703db9f5b4000be33eda/5937750c741b49000ce7d4cd/5937762fb9f5b4000be33ee4/img/mygardenline copy  1@2x.png">
                 </div>
             </div>
-        </a><a href=myplant.html>
+
+        <a href=myplant.html>
         <div class=group>
             <div class=single-plant>
                 <div class=rectangle7></div>
@@ -168,13 +168,67 @@
             <div class=rectangle9></div>
             <div class=search>Search</div>
         </div>
-        <div class=comment><img class=rectangle7-copy13                                 src="https://anima-uploads.s3.amazonaws.com/5937703db9f5b4000be33eda/5937750c741b49000ce7d4cd/5937762fb9f5b4000be33ee4/img/mygardenrectangle 7 copy 13@2x.png"><a
-                href=# onclick="document.getElementsByName('form7')[0].submit();">
+        <div class=comment><img class=rectangle7-copy13                                 src="https://anima-uploads.s3.amazonaws.com/5937703db9f5b4000be33eda/5937750c741b49000ce7d4cd/5937762fb9f5b4000be33ee4/img/mygardenrectangle 7 copy 13@2x.png">
             <div class=s-end>SEND</div>
-        </a><input class=text-problems-or-recommendations-you-want-us-to-know
+        <input class=text-problems-or-recommendations-you-want-us-to-know
                    name=textProblemsOrRecommendationsYouWantUsToKnow
                    placeholder="Problems or recommendations you want us to know…"></div>
+
+
+        <!-- 添加植物浮层1 -->
+        <div class="add-plant1">
+            <a href="javascript:void(0)" class="to-step2"></a>
+            <a href="javascript:void(0)" class="close-btn"></a>
+        </div>
+
+
+        <!-- 添加植物浮层2 -->
+        <div class="add-plant2">
+            <a href="javascript:void(0)" class="to-step3"></a>
+            <a href="javascript:void(0)" class="close-btn"></a>
+        </div>
+
+        <!-- 添加植物浮层3 -->
+        <div class="add-plant3">
+            <a href="javascript:void(0)" class="buy-now"></a>
+            <a href="javascript:void(0)" class="close-btn"></a>
+        </div>
+
+        <!-- 顶部下拉nav -->
+        <div class="nav-droplist">
+            <a href="index.html" class="nav-homepage"></a>
+            <a href="mygarden.html" class="nav-mygarden"></a>
+        </div>
+
     </div>
 </div>
+
+<!-- 遮罩层 -->
+<div class="cover"></div>
+
+<script type="text/javascript" src="./js/jquery.js"></script>
+<script type="text/javascript" src="./js/public.js"></script>
+<script type="text/javascript">
+    $('.add').click(function () {
+        $('.cover').show();
+        $('.add-plant1').show();
+    });
+    $('.close-btn').click(function () {
+        $(this).parent().hide();
+        $('.cover').hide();
+    });
+    $('.to-step2').click(function () {
+        $('.add-plant1').hide();
+        $('.add-plant2').show();
+    });
+    $('.to-step3').click(function () {
+        $('.add-plant2').hide();
+        $('.add-plant3').show();
+    });
+    $('.buy-now').click(function () {
+        $('.add-plant3').hide();
+        $('.cover').hide();
+    })
+</script>
 </body>
 </html>
